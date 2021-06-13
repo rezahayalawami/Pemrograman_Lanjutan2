@@ -20,7 +20,6 @@ public class TryTableArrays {
     }
 
 
-
     public TryTableArrays() {
 
         this.initComponents();
