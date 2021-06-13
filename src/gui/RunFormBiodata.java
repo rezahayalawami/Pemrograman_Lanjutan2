@@ -3,7 +3,6 @@ package gui;
 import javax.swing.*;
 
 public class RunFormBiodata {
-
     public static void main(String[] args) {
         JFrame jFrame = new JFrame("Form Biodata");
         jFrame.setContentPane(new FormBiodata().getRootPanel());
