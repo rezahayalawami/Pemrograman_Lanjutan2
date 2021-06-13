@@ -18,8 +18,7 @@ public class TryTableArrays {
     public JPanel getRootPanel() {
         return rootPanel;
     }
-
-
+    
     public TryTableArrays() {
 
         this.initComponents();
