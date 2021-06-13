@@ -1,2 +1,2 @@
 # Pemrograman_Lanjutan2
-Algoritma
+Assignments of Pemrograman lanjutan
